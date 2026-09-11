@@ -1,6 +1,6 @@
 {
-  "version_code": 56,
-  "version_name": "V56",
-  "download_url": "",
-  "release_notes": "Bản phát hành đầu tiên"
+  "version_code": 8.10,
+  "version_name": "V8.10 - Tốc độ bàn thờ",
+  "download_url": "DÁN_LINK_TẢI_FILE_EXE_V57_CỦA_BẠN_VÀO_ĐÂY",
+  "release_notes": "- Thêm chức năng tìm kiếm Font\n- Render nhanh gấp 3 lần\n- Vá lỗi văng phần mềm"
 }
