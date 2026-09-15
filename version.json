@@ -1,6 +1,6 @@
 {
-  "version_code": 810,
-  "version_name": "V810 - Tốc độ bàn thờ",
-  "download_url": "https://github.com/laihophiep/ToolUpdateJoinVideo/releases/latest/download/Pro_Auto_Video_JoinerVer8.10.exe",
-  "release_notes": "- Thêm chức năng tìm kiếm Font\n- Render nhanh gấp 3 lần\n- Vá lỗi văng phần mềm"
+  "version_code": 820,
+  "version_name": "V820 - Tốc độ bàn thờ",
+  "download_url": "https://github.com/laihophiep/ToolUpdateJoinVideo/releases/latest/download/Pro_Auto_Video_JoinerVer8.20.exe",
+  "release_notes": "- Fix lỗi nội dung trống, bỏ qua điền text nếu trống ở đoạn 1, co dãn khung phần mềm, render video theo số lượng kịch bản"
 }
